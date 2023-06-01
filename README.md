@@ -1,8 +1,4 @@
-# Customer-Segmentation
-Cluster the segments according to the people lifestyle resulting in the heart disease using unsupervised machine learning techniques.
-
-FIrstly it perform EDA on dataset to analyse the data deeply.
-We perform preprocessing and then find rules based on the data.
+# Rule Mining on  heartdisease dataset using WEKA.
 
 Information of attributes: This data is about heart data, given that there are some attributes like age, gender, restecg, cholesterol, resting blood pressure and some more attributes, where class predict that the person have heart disease or not.
 Gender: Attribute is categorical and binary. There are only two possible values for this attribute that is gender is male or gender is female.
